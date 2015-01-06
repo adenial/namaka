@@ -1,0 +1,73 @@
+{
+    "discountsGyms": [
+        {
+            "discount": "Fissic",
+            "categoryId": "7",
+            "conditions": [
+                "Inscripción sin costo.",
+                "Descuento especial sobre promociona mensual."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5668-3437",
+            "contact": "",
+            "email": "ventas@fissic.com",
+            "address" : "Col. San Jerónimo Lídice, Del. Magdalena Contreras, C.P. 10200."
+        },
+        {
+            "discount": "Shapes",
+            "categoryId": "7",
+            "conditions": [
+                "Inscripción $200.00.",
+                "$600 mensualidad."
+            ],
+            "disclosure": "",
+            "url": "www.shapelives.com.mx",
+            "phone": "5543-3623 y 1107-6584",
+            "contact": "",
+            "email": "",
+            "address" : "Eugenia N° 304, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+        },
+        {
+            "discount": "Sport Palace Gym",
+            "categoryId": "7",
+            "conditions": [
+                "30% de descuento en cuota mensual."
+            ],
+            "disclosure": "",
+            "url": "www.sportspalacegym.com.mx",
+            "phone": "5678-2793",
+            "contact": "",
+            "email": "",
+            "address" : "Calz. de las Bombas N° 128-6, Col. Ex Hacienda Coapa, Del. Coyoacán, C.P. 04980."
+        },
+        {
+            "discount": "Sportium",
+            "categoryId": "7",
+            "conditions": [
+                "Inscripción sin costo.",
+                "27% de descuento en cuota de mantenimiento semestral o anual y 6 ó 12 meses sin intereses."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "4987-4164",
+            "contact": "Circe de la Rosa",
+            "email": "ventascorporativas@sportium.com.mx",
+            "address" : ""
+        },
+        {
+             "discount": "Sports World",
+             "categoryId": "7",
+             "conditions": [
+                 "Membresía vitalicia individual de $599.00 y familiar de $749.00.",
+                 "Cuota mensual multiclub: Plata $850.00, Oro de $1,905.00 y Platino $2,100.00."
+             ],
+             "disclosure": "En 2015, las cuotas pueden sufrir modificaciones, válido solo ingresando a: https://socios.sportsworld.com.mx/sw/corporativa/registro/2037",
+             "url": "",
+             "phone": "1084-4800",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         }
+    ]
+}

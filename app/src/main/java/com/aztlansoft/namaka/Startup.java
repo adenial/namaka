@@ -75,6 +75,8 @@ public class Startup extends Application
     List<Discount> partyArticlesDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountspartyarticles), "discountsPartyArticles");
     List<Discount> insuranceCompanyDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsinsurancecompanies), "discountsInsuranceCompanies");
     List<Discount> automativeEngineeringDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsautomotiveengineering), "discountsAutomativeEngineering");
+    List<Discount> gymsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsgyms), "discountsGyms");
+    List<Discount> educationDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountseducation), "discountsEducation");
 
     arrayOfDiscounts.add(aerolineDiscounts);
     arrayOfDiscounts.add(travelAgenciesDiscounts);
@@ -82,20 +84,20 @@ public class Startup extends Application
     arrayOfDiscounts.add(partyArticlesDiscounts);
     arrayOfDiscounts.add(insuranceCompanyDiscounts);
     arrayOfDiscounts.add(automativeEngineeringDiscounts);
+    arrayOfDiscounts.add(gymsDiscounts);
+    arrayOfDiscounts.add(educationDiscounts);
     return arrayOfDiscounts;
   }
 
   private List<Discount> getDiscounts(InputStream inputStream, String discountCategory)
   {
-    InputStream jsonStream = inputStream;
-
     JSONObject jsonObject;
     JSONArray jsonDiscounts;
     JSONArray jsonDiscountConditions;
     List<Discount> discounts = new ArrayList<>();
     try
     {
-      jsonObject = new JSONObject(convertStreamToString(jsonStream));
+      jsonObject = new JSONObject(convertStreamToString(inputStream));
       jsonDiscounts = jsonObject.getJSONArray(discountCategory);
 
 

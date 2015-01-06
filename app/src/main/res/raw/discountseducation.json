@@ -1,0 +1,351 @@
+{
+    "discountsEducation": [
+        {
+            "discount": "Centro Cultural Anáhuac",
+            "categoryId": "8",
+            "conditions": [
+                "25% de  descuento en inscripciones y colegiaturas."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5634-7006 al 10",
+            "contact": "",
+            "email": "",
+            "address" : "Trabajadoras Sociales N° 223, Col. El Sifón, Iztapalpa, C.P. 09400."
+        },
+        {
+            "discount": "Centro de Desarrollo Infantil Baby Bee",
+            "categoryId": "8",
+            "conditions": [
+                "15% de descuento en colegiaturas."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5531-0035 y 5545-5763",
+            "contact": "",
+            "email": "",
+            "address" : "Campos Elíseos N° 131 y 136, Col. Polanco III Sección, Del. Miguel Hidalgo, C.P. 11510."
+        },
+        {
+            "discount": "Centro de Estudios Universitarios Coyotl",
+            "categoryId": "8",
+            "conditions": [
+                "40% de descuento en Bachillerato intensivo, Licenciaturas y Maestría."
+            ],
+            "disclosure": "",
+            "url": "www.ceucoyotlk.edu.mx",
+            "phone": "5444-4424 y 5444-1424",
+            "contact": "",
+            "email": "",
+            "address" : "Av. División del Norte N° 2449, Col. El Rosedal, Del. Coyoacán, C.P. 04330."
+        },
+        {
+            "discount": "Centro Educativo ECA",
+            "categoryId": "8",
+            "conditions": [
+                "50% de descuento en inscripción (incluye material escolar, cuadernos, útiles escolares y seguro de accidentes).",
+                "18% de descuento en colegiaturas y 2 colegiaturas de regalo.",
+                "Examen de admisión sin costo."
+            ],
+            "disclosure": "",
+            "url": "www.centroeducativoeca.edu.mx",
+            "phone": "5689-6280 y 5689-0441",
+            "contact": "",
+            "email": "",
+            "address" : "Ricardo Monjes López N° 62, Col. Educación, Del. Coyoacán, C.P. 04400."
+        },
+        {
+             "discount": "Centro Educativo Nen Lliure",
+             "categoryId": "8",
+             "conditions": [
+                 "Turno matutino:",
+                 "Inscripción $4,000 (a pagar en 3 parcialidades)",
+                 "Colegiaturas $3,900.",
+                 "Turno Vesperino:",
+                 "Inscripción $1,450.",
+                 "Colegiaturas $1,900."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5593-4305 y 4618",
+             "contact": "",
+             "email": "",
+             "address" : "Alfonso Esparza Oteo N° 94. Col. Guadalupe Inn, Del. Álvaro Obregón, C.P. 01020."
+         },
+         {
+             "discount": "Centro Universitario Grupo Sol",
+             "categoryId": "8",
+             "conditions": [
+                 "Inscripción sin costo.",
+                 "50% de descuento en colegiaturas de Bachillerato y Licenciatura semestral."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5588-3536",
+             "contact": "",
+             "email": "",
+             "address" : "Carmona y Valle N° 71, Col. Doctores, Del. Cuauhtémoc, C.P. 06720."
+         },
+         {
+             "discount": "Centro Universitario ETAC",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento para el trabajador y 20% de descuento para familiares directos."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "3067-6850",
+             "contact": "",
+             "email": "",
+             "address" : "Viveros de Asís N° 96, Col. Viveros de la Loma, Del. Tlanepantla, C.P. 54080, Estado de México."
+         },
+         {
+             "discount": "Centro Universitario Incarnate Word (CIW)",
+             "categoryId": "8",
+             "conditions": [
+                 "Del 20 al 35% de descuento en inscripción y coleiatura a trabajadores.",
+                 "Del 15 al 35% de descuento en inscripción y coleiaturas a familiares."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5575-8772 y 5575-6237",
+             "contact": "",
+             "email": "",
+             "address" : "Tlacoquemécatl N° 433, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Colegio Anglo Americano de Coyoacán",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en colegiatura, inscripción y material de Kinder, Preescolar, Preparatoria y Universidad en línea (licenciaturas, maestrías y doctorados).",
+                 "30% de descuento en colegiaturas y 40% de descuento en inscripción y material de Primaria y Secundaria."
+             ],
+             "disclosure": "Aplica para alumnos de nuevo ingreso.",
+             "url": "www.anglomexicanoamericano.edu.mx",
+             "phone": "5282-6050",
+             "contact": "",
+             "email": "",
+             "address" : "Av. Río Churubusco N° 409, Fraccionamiento Paseos de Taxqueña, Del. Coyoacán, C.P. 04250."
+         },
+         {
+             "discount": "Colegio Anglo Americano Lomas",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en colegiatura, inscripción y material de Kinder, Preescolar, Preparatoria y Universidad en línea (licenciaturas, maestrías y doctorados)",
+                 "30% de descuento en colegiaturas y 40% de descuento en inscripción y material de Primaria y Secundaria."
+             ],
+             "disclosure": "Aplica para alumnos de nuevo ingreso.",
+             "url": "www.anglomexicanoamericano.edu.mx",
+             "phone": "5607-0741",
+             "contact": "",
+             "email": "",
+             "address" : "Escuela Naval Militar N° 42, Col. San Francisco Culhuacán, Del. Coyoacán, C.P. 04430."
+         },
+         {
+             "discount": "Colegio Anglo Mexicano de Coyoacán",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en colegiatura, inscripción y material de Kinder, Preescolar, Preparatoria y Universidad en línea (licenciaturas, maestrías y doctorados)",
+                 "30% de descuento en colegiaturas y 40% de descuento en inscripción y material de Primaria y Secundaria."
+             ],
+             "disclosure": "Aplica para alumnos de nuevo ingreso.",
+             "url": "www.anglomexicanoamericano.edu.mx",
+             "phone": "5607-0741",
+             "contact": "",
+             "email": "",
+             "address" : "Escuela Naval Militar N° 42, Col. San Francisco Culhuacán, Del. Coyoacán, C.P. 04430."
+         },
+         {
+             "discount": "Colegio Avante",
+             "categoryId": "8",
+             "conditions": [
+                 "40% de descuento en inscripción y colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "www.colegioavante.edu.mx",
+             "phone": "5524-1348",
+             "contact": "",
+             "email": "",
+             "address" : "Amores 1620, Col. del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Colegio Bilingüe Héroes",
+             "categoryId": "8",
+             "conditions": [
+                 "30% de descuento en inscripción.",
+                 "10% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5554-1175",
+             "contact": "",
+             "email": "",
+             "address" : "Miguel Angel de Quevedo N° 426, Col. Parque San Andrés, Del. Coyoacán, C.P. 04000."
+         },
+         {
+             "discount": "Colegio Concepción Cabrera de Armida",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en inscripción.",
+                 "10% de descuento en Colegiatura."
+             ],
+             "disclosure": "",
+             "url": "www.cca.edu.mx",
+             "phone": "5581-2614 y 5582-5913",
+             "contact": "",
+             "email": "",
+             "address" : "Sur 103 N° 227, Col. Héroes de Churubusco, Del. Iztapalapa, C.P. 09090."
+         },
+         {
+             "discount": "Colegio del Valle",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en inscripción.",
+                 "20% de descuento en colegiaturas.",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "www.isecuniv.edu.mx",
+             "phone": "5063-1300",
+             "contact": "",
+             "email": "",
+             "address" : "Mier y Pesado N° 227, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Colegio Galileo Galilei",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en colegiatura mensual y precio preferencial en la inscripción del primer año."
+             ],
+             "disclosure": "",
+             "url": "www.galileogalilei.edu.mx",
+             "phone": "5631-4192",
+             "contact": "",
+             "email": "",
+             "address" : "Tenosique N° 379, Col. Héroes de Padierna, Del. Tlalpan, C.P. 14200."
+         },
+         {
+             "discount": "Colegio Green Life School",
+             "categoryId": "8",
+             "conditions": [
+                 "30% de descuento en inscripción.",
+                 "15% de descuento en colegiatura."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5559-1701 y 6277-6389",
+             "contact": "",
+             "email": "",
+             "address" : "Tejocotes N° 32, Col. Tlacoquemécatlk del Valle, Del. Benito Juárez, C.P. 03200."
+         },
+         {
+             "discount": "Colegio Jesús de Urquiaga",
+             "categoryId": "8",
+             "conditions": [
+                 "10% de descuento en inscripción y colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5616-1485",
+             "contact": "",
+             "email": "",
+             "address" : "Frontera N° 40 Col. San Ángel, Del. Álvaro Obregón, C.P. 01120."
+         },
+         {
+             "discount": "Colegio Julio Verne",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en inscripción.",
+                 "20% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "www.julesverneschool.edu.mx",
+             "phone": "5523-2561",
+             "contact": "",
+             "email": "",
+             "address" : "Heriberto Frías N° 949, Col. Del Valle. Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Colegio La Salle",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en Primaria, Secundaria y Preparatoria.",
+                 "35% de descuento en Licenciatura y Postgrado para trabajador y familiares directos."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5662-4480 y 5355",
+             "contact": "",
+             "email": "",
+             "address" : "Francia N° 31 y 39, Col. Florida, Del. Álvaro Obregón, C.P. 01030."
+         },
+         {
+             "discount": "Colegio Nacional de Matemáticas",
+             "categoryId": "8",
+             "conditions": [
+                 "Del 10% al 30% de descuento en pago en efectivo, dependiendo el curso."
+             ],
+             "disclosure": "",
+             "url": "www.conamat.com",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Colegio Simón Bolívar (Mixcoac)",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en colegiaturas para alumnos de nuevo ingreso."
+             ],
+             "disclosure": "",
+             "url": "www.csb.edu.mx",
+             "phone": "5563-6300",
+             "contact": "",
+             "email": "",
+             "address" : "Canova N° 37, Col. Insurgentes Mixcoac, Del. Benito Juárez, C.P. 03920."
+         },
+         {
+             "discount": "Colegio Simón Bolívar (Pedregal)",
+             "categoryId": "8",
+             "conditions": [
+                 "Hasta 50% de descuento en la primera colegiatura para alumnos de nuevo ingreso.",
+                 "Segunda actividad extraescolar sin costo adicional."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5568-8999",
+             "contact": "",
+             "email": "",
+             "address" : "Camino Santa Teresa N° 230, Col. Jardines del Pedregal, Del. Álvaro Obregón. C.P. 01900."
+         },
+         {
+             "discount": "Colegio Teifaros",
+             "categoryId": "8",
+             "conditions": [
+                 "15% de descuento en las colegiaturas para alumnos de nuevo ingreso.",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5659-8111 Ext. 231",
+             "contact": "",
+             "email": "",
+             "address" : "Fernández Leal N° 16, Col. Coyoacán, Del. Coyoacán, C.P. 04100."
+         },
+         {
+             "discount": "Colegio del Tepeyac",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en coleiaturas para alumnos de nuevo ingreso.",
+                 "20% de descuento en colegiaturas para cursar la Licenciatura de Gestión de Negocios."
+             ],
+             "disclosure": "",
+             "url": "www.tepeyac.edu.mx",
+             "phone": "5750-0744 y 5781-4033",
+             "contact": "",
+             "email": "",
+             "address" : "Callao N° 802 y 842, Col. Lindavista, Del. Gustavo A. Madero, C.P. 07300."
+         }
+    ]
+}

@@ -17,78 +17,112 @@
             android:orientation="vertical">
             <TextView
                 android:layout_width="fill_parent"
-                android:layout_height="31dp"
+                android:layout_height="wrap_content"
                 android:text="Title"
                 android:id="@+id/textView"
                 android:gravity="center"
                 android:textSize="22sp"
-                android:layout_marginBottom="8dp"
+                android:layout_marginBottom="15dp"
                 android:layout_gravity="center_horizontal|top"/>
-
             <TextView
-            android:layout_width="252dp"
-            android:layout_height="31dp"
-            android:text="Contact"
-            android:id="@+id/textViewContact"
-            android:gravity="center"
-            android:layout_marginBottom="8dp"
-            android:layout_gravity="center_horizontal|top"/>
-
-            <TextView
-                android:layout_width="fill_parent"
-                android:layout_height="31dp"
-                android:text="Phone"
-                android:id="@+id/textViewPhone"
+                android:layout_width="320dp"
+                android:layout_height="wrap_content"
+                android:text="Condición 1 \n\Conditionn 2 \n\Conditionn 3 \n\Conditionn 4 \n\Conditionn 5 \n\Conditionn 6"
+                android:id="@+id/textViewDetail"
                 android:gravity="center"
-                android:layout_marginBottom="8dp"
                 android:layout_gravity="center_horizontal|top"/>
-
             <TextView
-                android:layout_width="fill_parent"
-                android:layout_height="31dp"
-                android:text="Email"
-                android:id="@+id/textViewEmail"
-                android:gravity="center"
-                android:layout_marginBottom="8dp"
-                android:layout_gravity="center_horizontal|top"/>
-
-            <TextView
-                android:layout_width="fill_parent"
-                android:layout_height="31dp"
+                android:layout_width="319dp"
+                android:layout_height="wrap_content"
                 android:text="Disclosure"
                 android:id="@+id/textViewDisclosure"
                 android:textStyle="bold"
                 android:gravity="center"
-                android:layout_marginBottom="8dp"
+                android:layout_gravity="center_horizontal|top"/>
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Contacto"
+                android:id="@+id/textViewContactLabel"
+                android:gravity="left"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal|top"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:id="@+id/textViewContact"
+                android:gravity="left"
+                android:layout_gravity="center_horizontal|top"/>
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Teléfono"
+                android:id="@+id/textViewPhoneLabel"
+                android:textStyle="bold"
+                android:gravity="left"
                 android:layout_gravity="center_horizontal|top"/>
 
             <TextView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Condición 1 \n\Conditionn 2 \n\Conditionn 3 \n\Conditionn 4 \n\Conditionn 5 \n\Conditionn 6"
-                android:id="@+id/textViewDetail"
-                android:gravity="center"
-                android:layout_marginBottom="8dp"
+                android:text="Phone"
+                android:id="@+id/textViewPhone"
+                android:gravity="left"
                 android:layout_gravity="center_horizontal|top"/>
-
+            <View style="@style/Divider"/>
             <TextView
                 android:layout_width="fill_parent"
-                android:layout_height="31dp"
-                android:text="Url"
-                android:id="@+id/textViewUrl"
-                android:gravity="center"
-                android:autoLink="web"
-                android:layout_gravity="center_horizontal|top"/>
-
-            <TextView
-                android:layout_width="fill_parent"
-                android:layout_height="31dp"
-                android:text="Url"
-                android:id="@+id/textViewAddress"
-                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:text="Correo"
+                android:id="@+id/textViewEmailLabel"
+                android:gravity="left"
                 android:textStyle="bold"
                 android:layout_gravity="center_horizontal|top"/>
-            </LinearLayout>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:id="@+id/textViewEmail"
+                android:gravity="left"
+                android:layout_gravity="center_horizontal|top"/>
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Página Web"
+                android:id="@+id/textViewUrlLabel"
+                android:textStyle="bold"
+                android:gravity="left"
+                android:autoLink="web"
+                android:layout_gravity="center_horizontal|top"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Url"
+                android:id="@+id/textViewUrl"
+                android:gravity="left"
+                android:autoLink="web"
+                android:layout_gravity="center_horizontal|top"/>
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Dirección"
+                android:id="@+id/textViewAddressLabel"
+                android:gravity="left"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal|top"/>
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Address"
+                android:id="@+id/textViewAddress"
+                android:gravity="left"
+                android:layout_gravity="center_horizontal|top"/>
+        </LinearLayout>
 
     </ScrollView>
 </FrameLayout>
