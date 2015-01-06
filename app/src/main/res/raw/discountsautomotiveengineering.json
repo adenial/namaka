@@ -1,0 +1,135 @@
+{
+    "discountsAutomativeEngineering": [
+        {
+            "discount": "Autos Elegantes (Chrysler)",
+            "categoryId": "6",
+            "conditions": [
+                "15% de descuento en hojalatería y pintura.",
+                "15% de descuento en mano de obra.",
+                "10% de descuento en refacciones."
+            ],
+            "disclosure": "Para adquisición de vehículos, comunicarse directamente.",
+            "url": "www.autos-elegantes.com.mx",
+            "phone": "5340-8400",
+            "contact": "Ing. Cesar Luis del Toro",
+            "email": "",
+            "address" : "Ángel Urraza N° 1311, Col. Del Valle Del. Benito Juárez, C.P. 03100."
+        },
+        {
+            "discount": "Automotriz Francesa Universidad (Peugeot)",
+            "categoryId": "6",
+            "conditions": [
+                "15% de descuento en servicios y refacciones.",
+                "Para adquisición de vehículos, comunicarse directamente."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "3000-1302 y 3000-1303",
+            "contact": "José Luis del Castillo",
+            "email": "jcastillo@afu.mx",
+            "address" : "Av. Universidad N° 1087, Col. Del VAlle, Del. Benito Juárez, C.P. 03100."
+        },
+        {
+            "discount": "Automotriz San Ángel (Volkswagen y Saet)",
+            "categoryId": "6",
+            "conditions": [
+                "5% de descuento en mano de obra.",
+                "Servicio de Valet Parking en mantenimiento, previa cita.",
+                "Sin comisión por apertura para adquisición de automóviles nuevos con créditos ScotiaBank.",
+                "Sin comisión por apertura para adquisición de automóviles con crédito AFASA y lo Jack gratis."
+            ],
+            "disclosure": "",
+            "url": "www.vw-sanangel.com.mx",
+            "phone": "5593-5833",
+            "contact": "Luis Minutti",
+            "email": "lminutti@vw-sanangel.com.mx",
+            "address" : "Av. Revolución N° 1220, Col, Guadalupe Inn. C.P. 01020."
+        },
+        {
+            "discount": "Honda (Insurgentes Sur)",
+            "categoryId": "6",
+            "conditions": [
+                "10% de descuento en mantenimiento.",
+                "Extensión de garantía hasta 3 años.",
+                "Servicio de Valet Parking en mantenimiento, previa cita."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5513-6676",
+            "contact": "Luis Gerardo Alva",
+            "email": "",
+            "address" : "Av. Insurgentes N° 4386, Col. La Joya, C.P. 14090."
+        },
+        {
+             "discount": "Nissan (Coapa)",
+             "categoryId": "6",
+             "conditions": [
+                 "10% de descuento en accesorios originales.",
+                 "10% de descuento en la compra de refacciones por mostraador.",
+                 "15% de descuento en mantenimiento y servicios.",
+                 "Servicio de Valet Parking en mantenimiento, previa cita."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "04455-8534-5605 y 04455-3158-8829",
+             "contact": "Virginia Núñez",
+             "email": "nunezautos@gmail.com",
+             "address" : "Calzada del Hueso N° 661. Col. Tenorios, Del. Tlalpan, C.P. 14300."
+         },
+         {
+             "discount": "Subaru (Predegal)",
+             "categoryId": "6",
+             "conditions": [
+                 "10% de descuento en servicio, mano de obra, refacciones y accesorios."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "9136-8970",
+             "contact": "",
+             "email": "",
+             "address" : "Boulevard Adolfo Ruiz Cortines N° 3070, Col. Jardines del Pedregal, Del. San Jerónimo Aculco, C.P. 10400."
+         },
+         {
+             "discount": "Astrollantas México",
+             "categoryId": "6",
+             "conditions": [
+                 "25% de descunto sobres precios de lista sobre precios de lista en pago en efectivo de adquisición de llantas.",
+                 "15% de descuento sobre precios de lista en pago con tarjeta de crédito en adquisición de llantas.",
+                 "15% de descuento en pago en efectivo de servicios.",
+                 "10% de descuento en pago con tarjeta de crédito de servicios."
+             ],
+             "disclosure": "",
+             "url": "www.astrollantas.com.mx",
+             "phone": "5567-0477 y 5587-6145",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Avante",
+             "categoryId": "6",
+             "conditions": [
+                 "20% de descuento en la compra de llantas, rines, amortiguadores y en servicio de alineación y balanceo"
+             ],
+             "disclosure": "No aplica en pagos diferidos.",
+             "url": "",
+             "phone": "5549-9994",
+             "contact": "",
+             "email": "",
+             "address" : "Xotepingo N° 50, Col. Avante, Del Coyoacán, C.P. 04460."
+         },
+         {
+             "discount": "Continental de llantas",
+             "categoryId": "6",
+             "conditions": [
+                 "Del 10 al 30% de descuento en pago en efectivo, según producto."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5448-8940 y 5523-0499",
+             "contact": "",
+             "email": "",
+             "address" : "Av. Universidad N° 217, Col. Narvarte, Del. Coyoacán, C.P. 03020."
+         }
+    ]
+}

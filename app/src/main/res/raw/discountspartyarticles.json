@@ -1,0 +1,95 @@
+{
+    "discountsPartyArticles": [
+        {
+            "discount": "Alquiladora Jardín Balbuena",
+            "categoryId": "4",
+            "conditions": [
+                "10% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5552-6132",
+            "contact": "",
+            "email": "",
+            "address" : "Sur 109 N° 1303, Col. Aeronáutica Militar, Del. Venustiano Carranza, C.P. 15970."
+        },
+        {
+            "discount": "El Nuevo Fénix",
+            "categoryId": "4",
+            "conditions": [
+                "5% de descuento en pago en efectivo."
+            ],
+            "disclosure": "No participan ofertas, mayoreo, promociones y liquidaciones.",
+            "url": "www.elnuevofenix.com.mx",
+            "phone": "5522-5926 y 5542-8029",
+            "contact": "",
+            "email": "",
+            "address" : "Venustiano Carranza N° 153, Col. Centro, Del. Cuauhtémoc, C.P 06060."
+        },
+        {
+            "discount": "Gaona",
+            "categoryId": "4",
+            "conditions": [
+                "15% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "www.alquiladoragaona.com.mx",
+            "phone": "5588-7649",
+            "contact": "",
+            "email": "",
+            "address" : "Dr. Erazo N° 43, Col. Doctores, Del. Cuauhtémoc, C.P. 06720."
+        },
+        {
+            "discount": "Grupo del Valle",
+            "categoryId": "4",
+            "conditions": [
+                "10% de descuento en bodas, 15 años, fiestas empresariales y en paquetes de banquetes a domicilio."
+            ],
+            "disclosure": "",
+            "url": "www.gpodelvalle.com",
+            "phone": "5750-6791 y 5750-6811",
+            "contact": "",
+            "email": "",
+            "address" : "Héroes del 47 N° 9 Col. San Diego Churubusco, Del. Coyoacán, C.P. 04120."
+        },
+        {
+             "discount": "Gutter",
+             "categoryId": "4",
+             "conditions": [
+                 "15% de descuento en pago en efectivo."
+             ],
+             "disclosure": "No participan ofertas, mayoreo, promociones y liquidaciones.",
+             "url": "",
+             "phone": "5522-7284 y 5512-3628",
+             "contact": "",
+             "email": "",
+             "address" : "Uruguay N° 121, Local B, Col. Centro, Del. Cuaughtémoc, C.P. 06060."
+         },
+         {
+             "discount": "La Aventura",
+             "categoryId": "4",
+             "conditions": [
+                 "40% de descuento en la renta del salón de fiestas en sábado, domingo y días festivos."
+             ],
+             "disclosure": "",
+             "url": "www.laaventura.com.mx",
+             "phone": "5524-8532",
+             "contact": "",
+             "email": "",
+             "address" : "Patricio Sanz N° 1609-10, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Sipi",
+             "categoryId": "4",
+             "conditions": [
+                 "15% de descuento en pago en efectivo, o 6 meses sin intereses en pago con tarjeta de crédito."
+             ],
+             "disclosure": "",
+             "url": "www.sipifiestas.com.mx",
+             "phone": "5233-8250 y 8245",
+             "contact": "",
+             "email": "",
+             "address" : "Norte 92 N° 6652, Col. San Pedro el Chico, Del. Gustavo A. Madero, C.P. 07480."
+         }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "discountsAerolines": [
+        {
+            "discount": "Aeromar",
+            "categoryId": "1",
+            "conditions": [
+                "Tarifas fijas todo el año sin importar las fechas de viaje y compra.",
+                "Acumulación de millas en el programa Mileage Plus de United Airlines.",
+                "Sin cobro administrativo por cambio de fecha y/o ruta.",
+                "Se permiten reembolsos con cargo administrativo vigente, por medio de una ORden de Cargos Misceláneos (MCO).",
+                "Acceso a la sala VIP Diamante en las terminales donde exista el servicio."
+            ],
+            "disclosure": "Ventas sólo por teléfono. Mencionar el ID corporativo CNB14",
+            "url": "www.aeromar.com.mx",
+            "phone": "5133-1111",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Aeroméxico",
+            "categoryId": "1",
+            "conditions": [
+                "Del 10 al 15% de descuento en todas las rutas de Aeroméxico.",
+                "Tarifa privada garantizada en los destingos Monterrey, Guadalajara, León, Washington, Londres y París.",
+                "Sin cargos por servicio.",
+                "Acceso a Club Premier Corporativo."
+            ],
+            "disclosure": "Válido sólo en el módulo de las instalaciones de la CNBV, 5° piso Torre Sur.",
+            "url": "",
+            "phone": "1454-06000 Ext. 5457",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Grupo Magnicharters",
+            "categoryId": "1",
+            "conditions": [
+                "10% de descuento en boletos de avión (no aplica en meses sin intereses).",
+                "Del 5 al 10% de descuento en paquetes turísticos."
+            ],
+            "disclosure": "",
+            "url": "www.magnicharters.com",
+            "phone": "5141-1351 Ext. 1165/1132",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Volaris",
+            "categoryId": "1",
+            "conditions": [
+                "25% de descuento para la compra de las primeras 5000 membresías VClub por el primer año, para obtener las mejores tarifas."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "",
+            "contact": "Raymundo Guadarrama",
+            "email": "raymundo.guadarrama@volaris.com",
+            "address" : ""
+        }
+    ]
+}

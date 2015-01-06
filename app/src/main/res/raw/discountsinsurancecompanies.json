@@ -1,0 +1,83 @@
+{
+    "discountsInsuranceCompanies": [
+        {
+            "discount": "Aba",
+            "categoryId": "5",
+            "conditions": [
+                "Deducibles prefernciales del 5% en daños materiales y 10% en robo total."
+            ],
+            "disclosure": "",
+            "url": "www.abaseguros.com",
+            "phone": "(01 83) 8368-1429 y 1428",
+            "contact": "Carlos Alberto Oranday Fuentes",
+            "email": "Carlos.Oranday@ACEGroup.com",
+            "address" : ""
+        },
+        {
+            "discount": "El Águila Compañía de Seguros",
+            "categoryId": "5",
+            "conditions": [
+                "30% de descuento en la contratación de seguro."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5488 1842 y 1843",
+            "contact": "Gregorio Miguel Gutiérrez Sanjenis",
+            "email": "mgutierrez@elaguila.com.mx",
+            "address" : "Av. Insurgentes Sur N° 1106, Col. Tlacoquemécat, Del. Benito Juárez, 03200."
+        },
+        {
+            "discount": "Mapfre",
+            "categoryId": "5",
+            "conditions": [
+                "70% de descuento en seguro de automóvil.",
+                "10% de descuento en seguros de casa haitación particular."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "3300-6269",
+            "contact": "Misael Gomez",
+            "email": "mezgomez@mapfre.com.mx",
+            "address" : ""
+        },
+        {
+            "discount": "Seguros Atlas",
+            "categoryId": "5",
+            "conditions": [
+                "Deducibles prefernciales del 5% en daños materiales y 10% en robo total."
+            ],
+            "disclosure": "",
+            "url": "www.segurosatlas.com.mx",
+            "phone": "9177 5000 Ext. 7117 y 5138",
+            "contact": "Gloria Veronica Cervantes / Marco Antonio Guzmán",
+            "email": "",
+            "address" : "Paseo de los Tamarindos 60 PB, Col. Bosques de las Lomas, Del. Cuajimalpa, C.P. 05120."
+        },
+        {
+             "discount": "Seguros Inteligentes",
+             "categoryId": "5",
+             "conditions": [
+                 "Del 30 al 50% de descuento en seuro para automóviles en aseguradoras: AXA, QUALITAS, MAPFRE, GNP, ANA, ABA, PR1MERO SEGUROS."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5630-8908 y 5631-6756",
+             "contact": "Luis Bernardo Macías",
+             "email": "lbmacias@gmag.com.mx",
+             "address" : "Carretera Picacho Ajusco N° 130, depto. 803, Col. Jardines en la montaña, Del. Tlalpan, C.P. 14210."
+         },
+         {
+             "discount": "Qualitas",
+             "categoryId": "5",
+             "conditions": [
+                 "Deducibles preferenciales del 33% y 5% en daños materiales y 10% en robo total."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         }
+    ]
+}

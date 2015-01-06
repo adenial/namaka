@@ -1,0 +1,104 @@
+{
+    "discountsTravelAgencies": [
+        {
+            "discount": "Forza Travel",
+            "categoryId": "2",
+            "conditions": [
+                "8% de descuento en la compra de estancia en hoteles internacionales.",
+                "5% de descuento en la compra de estancia en hoteles nacionales.",
+                "Sin cobro administrativo por cambio de fecha y/o ruta.",
+                "50% de descuento en cargos por servicio en reservas aéreas."
+            ],
+            "disclosure": "No se acepta pago con tarjetas de crédito American Express, descuentos aplicables antes de impuestos.",
+            "url": "",
+            "phone": "5211-0176",
+            "contact": "Benjamín Izquierdo",
+            "email": "benjamin@forzatravel.com",
+            "address" : "Av. Michoacán N° 134, Col. Hipódromo Condesa, Del. Cuauhtémoc, C.P. 06170."
+        },
+        {
+            "discount": "RS Viajes (Grupo del Valle)",
+            "categoryId": "2",
+            "conditions": [
+                "10% de descuento en viajes nacionales.",
+                "5% de descuento en viajes internacionales."
+            ],
+            "disclosure": "",
+            "url": "www.gpodelvalle.com",
+            "phone": "5750 y 5750-6811",
+            "contact": "",
+            "email": "",
+            "address" : "Héroes del 47 N° 9, Col. San Diego Churubusco, Del. Coyoacán C.P. 04120."
+        },
+        {
+            "discount": "Turismo Travel (Grupo Travel)",
+            "categoryId": "2",
+            "conditions": [
+                "4% de descuento en paquetes nacionales.",
+                "5% de descuento en paquetes internacionales."
+            ],
+            "disclosure": "",
+            "url": "www.grupotravel.com",
+            "phone": "5004-6000",
+            "contact": "",
+            "email": "",
+            "address" : "Doctor José María Vértiz N° 748, Col. Narvarte, Del. Benito Juárez. C.P. 03023."
+        },
+        {
+            "discount": "Optucorp",
+            "categoryId": "2",
+            "conditions": [
+                "Tarifa exclusiva en paquetes turísticos en toda la República.",
+                "Facilidades de pago a 24 quincenas.",
+                "Mismo costo en temporada alta y baja reservando oportunamente."
+            ],
+            "disclosure": "",
+            "url": "www.optumex.com.mx",
+            "phone": "5830-4824 y 5663-5217",
+            "contact": "",
+            "email": "",
+            "address" : "Sur N° 1863 2° Piso, Col. Guadalupe Inn, Del. Álvaro Obregón, C.P. 01020."
+        },
+        {
+             "discount": "Turismo Omicron",
+             "categoryId": "2",
+             "conditions": [
+                 "Del 3 al 6% de descuento en pago en efectivo.",
+                 "Meses sin intereses en paquetes nacionales, vuelos, y hoteles o interés fijo a tasas preferenciales."
+             ],
+             "disclosure": "",
+             "url": "www.viajesomicron.com",
+             "phone": "5673-0164",
+             "contact": "",
+             "email": "lovi@tuagenciadeviajes.com.mx",
+             "address" : "Calzada de las Bombas N° 756 Local N° 13, Col. Residencial Cafetales, Del. Coyoacán, C.P. 04918."
+         },
+         {
+             "discount": "Viajes Helvética",
+             "categoryId": "2",
+             "conditions": [
+                 "10% de descuento en hoteles en pago en efectivo.",
+                 "5% de descuento en pago con tarjeta de crédito."
+             ],
+             "disclosure": "",
+             "url": "www.viajeshelvetia.com",
+             "phone": "5272-1071",
+             "contact": "",
+             "email": "informes@viajeshelvetia.com",
+             "address" : "Calle 15 N° 53°, Col. San Pedro de los Pinos, Del. Benito Juárez, C.P. 03800."
+         },
+         {
+             "discount": "Viañales Tours",
+             "categoryId": "2",
+             "conditions": [
+                 "10% de de descuento en paquetes turísticos a Cuba, boletos de avión México-La Habana-México y Hoteles en Cuba."
+             ],
+             "disclosure": "",
+             "url": "www.vinalestours.com",
+             "phone": "5242-4221",
+             "contact": "",
+             "email": "",
+             "address" : "Oaxaca N° 95, Col. Roma, Del. Cuauhtémoc, C.P. 06700."
+         }
+    ]
+}

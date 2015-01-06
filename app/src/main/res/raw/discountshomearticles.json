@@ -1,0 +1,109 @@
+{
+    "discountsHomeArticles": [
+        {
+            "discount": "Colchones Atlas",
+            "categoryId": "3",
+            "conditions": [
+                "10% de descuento en pago en efectivo.",
+                "5% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "www.atlascitycomfort.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Crisa",
+            "categoryId": "3",
+            "conditions": [
+                "Del 10 al 40% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "www.crisa.com",
+            "phone": "5260-5173 y 5260-5117",
+            "contact": "",
+            "email": "",
+            "address" : "Marina Nacional N° 519, Col. Anáhuac, Del. Miguel Hidalgo, C.P. 01320."
+        },
+        {
+            "discount": "Decoraciones Omega",
+            "categoryId": "3",
+            "conditions": [
+                "Del 5 al 30% de descuento (dependiendo el producto y forma de pago)."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5594-9348 y 5584-8446",
+            "contact": "",
+            "email": "decoraciones.omeg@hotmail.com",
+            "address" : "Cafetales N° 264 Int. 4, Col. Granjas Coapa, Del. Tlalpan, C.P. 14330."
+        },
+        {
+            "discount": "El Surtidor",
+            "categoryId": "3",
+            "conditions": [
+                "15% de descuento en mercancia seleccionada."
+            ],
+            "disclosure": "",
+            "url": "www.elsurtidor.com",
+            "phone": "5237-0300",
+            "contact": "",
+            "email": "",
+            "address" : "Observatorio N° 260, Col. Daniel Garza, Del. Miguel Hidalgo, C.P. 11830."
+        },
+        {
+             "discount": "Hermanos Vázquez (Universidad)",
+             "categoryId": "3",
+             "conditions": [
+                 "10% de descuento."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5322-0400",
+             "contact": "",
+             "email": "",
+             "address" : "Universidad N° 2014, Col. Copilco Universidad, Del. Coyoacán, C.P. 04360."
+         },
+         {
+             "discount": "Mabe",
+             "categoryId": "3",
+             "conditions": [
+                 "15% de descuento en productos seleccionados."
+             ],
+             "disclosure": "",
+             "url": "www.tiendamabe.com",
+             "phone": "9178-8200",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Rebájale",
+             "categoryId": "3",
+             "conditions": [
+                 "Del 10% al 60% de descuento en productos para el hogar."
+             ],
+             "disclosure": "",
+             "url": "www.rebajale.com",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Tazas, Tarros y Algo Más",
+             "categoryId": "3",
+             "conditions": [
+                 "30% de descuento en tazas grabadas y artículos del catálogo de línea comercial."
+             ],
+             "disclosure": "",
+             "url": "www.tazastarrosyalgomas.com",
+             "phone": "5538-8980 y 5538-0538",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         }
+    ]
+}
