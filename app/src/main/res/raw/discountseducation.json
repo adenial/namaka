@@ -337,7 +337,7 @@
              "discount": "Colegio del Tepeyac",
              "categoryId": "8",
              "conditions": [
-                 "25% de descuento en coleiaturas para alumnos de nuevo ingreso.",
+                 "25% de descuento en colegiaturas para alumnos de nuevo ingreso.",
                  "20% de descuento en colegiaturas para cursar la Licenciatura de Gestión de Negocios."
              ],
              "disclosure": "",
@@ -346,6 +346,414 @@
              "contact": "",
              "email": "",
              "address" : "Callao N° 802 y 842, Col. Lindavista, Del. Gustavo A. Madero, C.P. 07300."
-         }
+         },
+         {
+             "discount": "Colegio Westmount",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en inscripción y colegiaturas"
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5605-2956 y 5604-9877",
+             "contact": "",
+             "email": "",
+             "address" : "José María Vertiz 1221 Col. Letrán del Valle, Del. Benito Juárez, C.P. 03650."
+         },
+         {
+             "discount": "Encuentros Musicales",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en inscripción.",
+                 "15% de descuento en colegiaturas"
+             ],
+             "disclosure": "",
+             "url": "www.encuentrosmusicales.org",
+             "phone": "5639-4383 y 8589-3568",
+             "contact": "",
+             "email": "",
+             "address" : "Diagonal San Antonio N° 1208, Col. Narvarte, Del. Benito Juárez, C.P. 03020."
+         },
+         {
+             "discount": "Escuela Bancaria y Comercial",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en colegiaturas."
+             ],
+             "disclosure": "Aplica para alumnos de nuevo ingreso.",
+             "url": "www.ebc.mx",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Escuela Internacional",
+             "categoryId": "8",
+             "conditions": [
+                 "Inscripción sin costo en el primer año (excepto preparatoria y licenciatura).",
+                 "50% de descuento en inscripción los años subsecuentes.",
+                 "10% de descuento en colegiaturas.",
+                 "50% de descuento en inscripción y colegiaturas en preparatoria y licenciatura."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5658-6425 y 5658-6246",
+             "contact": "",
+             "email": "",
+             "address" : "General Anaya N° 313, Col. Del Carmen Coyoacán, Del. Coyoacán, C.P. 04000."
+         },
+         {
+             "discount": "Impulso Pedagógico",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en inscripción.",
+                 "15% de descuento en mensualidades."
+             ],
+             "disclosure": "Aplica para guardería y kinder.",
+             "url": "www.impulsopedagogico.com",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Instituto de Gastronomía y Turismo México",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en inscripción",
+                 "20% de descuento en pago en efectivo de colegiaturas o 6 meses sin intereses en pago con tarjeta de crédito",
+                 "10% de descuento en el pago en efectivo de colegiaturas para cursar la Licenciatura en Gastronomía o la carrera técnica profesional en gastronomía o 5% de descuento y seis meses sin intereses en pago con tarjeta de crédito."
+             ],
+             "disclosure": "",
+             "url": "wwww.igtm.edu.mx",
+             "phone": "5750-6811 y 6791",
+             "contact": "",
+             "email": "",
+             "address" : "Fray Pedro de Gante N° 133, Col. Vaso de Quiroga, Del. Gustavo A. Madero, C.P. 07440."
+         },
+         {
+             "discount": "Instituto Inglaterra",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en inscripción.",
+                 "15% de descuento en colegiatura.",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "6267-1151 y 5564-5310",
+             "contact": "",
+             "email": "",
+             "address" : "Tlacotalpan N° 26. Col. Roma Sur, Del. Cuauhtémoc, C.P. 06760."
+         },
+         {
+             "discount": "Instituto Miguel Angel",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en inscripción.",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5661-2125",
+             "contact": "",
+             "email": "",
+             "address" : "Iztaccíhuatl 239, Col. Florida. Del. Álvaro Obregón, C.P. 01030."
+         },
+         {
+             "discount": "Instituto Pakal",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en el pago en efectivo de Licenciatura.",
+                 "30% de descuento en el pago en efectivo de Bachillerato."
+             ],
+             "disclosure": "",
+             "url": "www.pakal.edu.mx",
+             "phone": "5679-0610",
+             "contact": "",
+             "email": "",
+             "address" : "Calzada del Hueso N° 377, Col. Floresta, Del Coyoacán, C.P. 14310."
+         },
+         {
+             "discount": "Instituto San Ángel",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en inscripción y colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5689 2836",
+             "contact": "",
+             "email": "dir-gen@isas.edu.mx",
+             "address" : "Pensilvania N° 19, Col. Parque San Andrés, Del. Coyoacán C.P. 04040."
+         },
+         {
+             "discount": "Instituto Simón Bolívar",
+             "categoryId": "8",
+             "conditions": [
+                 "15% de descuento en colegiaturas.",
+                 "15% de descuento en inscripción para alumnos de nuevo ingreso."
+             ],
+             "disclosure": "",
+             "url": "www.isb.edu.mx",
+             "phone": "5604-8587",
+             "contact": "",
+             "email": "",
+             "address" : "Mayorazgo de Solís N° 65, Col. Xoco, Del. Benito Juárez, C.P. 03330."
+         },
+         {
+             "discount": "Instituto Tecnológico Autónomo de México (ITAM)",
+             "categoryId": "8",
+             "conditions": [
+                 "30% de descuento para trabajadores en Diplomado en Impuestos Automatizados.",
+                 "30% de descuento para trabajadores en cursos de actualización y Diplomados Institucionales.",
+                 "20% de descuento para trabajadores en Diplomado en Impuestos Internacionales y en la especialidad en materia Impositiva.",
+                 "40% de descuento para exalumnos trabajadores.",
+                 "10% de descuento para familiares de trabajadores."
+             ],
+             "disclosure": "",
+             "url": "www.itam.mx/posgrados/mediosdigitales",
+             "phone": "5628-4185 y 4187 y 5628-4187",
+             "contact": "",
+             "email": "",
+             "address" : "Col. Héroes de Padierna, Del. Magdalena Contreras, C.P. 10700."
+         },
+         {
+             "discount": "Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) Escuela General de Administración ",
+             "categoryId": "8",
+             "conditions": [
+                 "33% de descuento en programas de Maestría y Doctorado en Política Pública."
+             ],
+             "disclosure": "",
+             "url": "www.egap.itesm.edu.mx",
+             "phone": "5483-1882",
+             "contact": "",
+             "email": "",
+             "address" : "Calle del Puente N° 222, Col. Ejidos de Huipilco, Del. Tlalpan, C.P. 14380."
+         },
+         {
+             "discount": "Play Music School",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en el pago en efectivo de inscripción y 40% en el pago con tarjeta de crédito.",
+                 "20% de descuento en el pago en efectivo de las mensualidades y 15% en el pago con tarjeta de crédito."
+             ],
+             "disclosure": "",
+             "url": "www.playmusicschool.com",
+             "phone": "5336-2610 y 3359",
+             "contact": "",
+             "email": "",
+             "address" : "Héroes del 47 N° 9, Col. Churubusco, Del. Coyoacán, C.P. 04120."
+         },
+         {
+             "discount": "Universidad Anáhuac del Sur",
+             "categoryId": "8",
+             "conditions": [
+                 "10% de descuento en inscripción y colegiatura en maestría."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5628-8800",
+             "contact": "",
+             "email": "",
+             "address" : "Av. De las Torres N° 131, Col. Olivar de los Padres, Del. Álvaro Obregón, C.P. 01780."
+         },
+         {
+             "discount": "Universidad CNCI",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en el pago en efectivo de colegiaturas."
+             ],
+             "disclosure": "No aplica en preparatoria en línea.",
+             "url": "www.cnci.com.mx",
+             "phone": "01 800 716-9945",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Universidad De Negocios ISEC",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en inscripción.",
+                 "20% de descuento en colegiaturas.",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "www.isecuniv.edu.mx",
+             "phone": "5063-1300",
+             "contact": "",
+             "email": "",
+             "address" : "Mier y Pesado N° 227, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Universidad del Desarrollo Empresarial y Pedagógico",
+             "categoryId": "8",
+             "conditions": [
+                 "Primera inscripción sin costo.",
+                 "50% de descuento en colegiaturas y reinscripción."
+             ],
+             "disclosure": "",
+             "url": "www.univdep.edu.mx",
+             "phone": "5604-2178 y 5688-3512",
+             "contact": "",
+             "email": "",
+             "address" : "Miguel Laurent N° 719, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Universidad del Distrito Federal",
+             "categoryId": "8",
+             "conditions": [
+                 "30% de descuento en colegiaturas y reinscripción."
+             ],
+             "disclosure": "",
+             "url": "www.udf.edu.mx",
+             "phone": "3611-0030",
+             "contact": "",
+             "email": "",
+             "address" : "Cedri N° 16, Col. Santa María la Ribera, Del. Cuauhtémoc, C.P. 06400."
+         },
+         {
+             "discount": "Universidad del Pedregal",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5662-9497",
+             "contact": "",
+             "email": "",
+             "address" : "Avenida transmiciones N° 51, Col. Ex-hacienda de San Juan, Del. Tlalpan, C.P. 14370."
+         },
+         {
+             "discount": "Universidad del Valle de México",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento a trabajadores.",
+                 "15% de descuento para familiares directos."
+             ],
+             "disclosure": "",
+             "url": "www.uvmnet.edu",
+             "phone": "01 800 888-6010",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Universidad Tepeyac",
+             "categoryId": "8",
+             "conditions": [
+                 "25% de descuento en colegiaturas para alumnos de nuevo ingreso.",
+                 "20% de descuento en colegiaturas para cursar la Licenciatura de Gestión de Negocios."
+             ],
+             "disclosure": "",
+             "url": "www.tepeyac.edu.mx",
+             "phone": "5750-0744 y 5781-4033",
+             "contact": "",
+             "email": "",
+             "address" : "Callao N° 802 y 842, Col. Lindavista, Del. Gustavo A. Madero, C.P. 07300."
+         },
+         {
+             "discount": "Universidad Iberoamericana",
+             "categoryId": "8",
+             "conditions": [
+                 "15% de descuento en programas de posgrado.",
+                 "20% de descuento en inscripción y colegiaturas de educación continua."
+             ],
+             "disclosure": "",
+             "url": "www.ula.mx",
+             "phone": "5950-4000",
+             "contact": "",
+             "email": "",
+             "address" : "Prolongación Paseo de la Reforma N° 880, Col. Lomas de Santa Fe, Del. Álvaro Obregón, C.P. 01219."
+         },
+         {
+             "discount": "Universidad ICEL",
+             "categoryId": "8",
+             "conditions": [
+                 "10% de descuento en colegiaturas e inscripción",
+                 "Examen de admisión sin costo."
+             ],
+             "disclosure": "",
+             "url": "www.icel.edu.mx",
+             "phone": "5350-9100",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Universidad Latinoamericana",
+             "categoryId": "8",
+             "conditions": [
+                 "Del 15 al 20% de descuento para cursar licenciaturas de programas ejecutivos.",
+                 "Del 10% al 15% de descuento para cursar maestrías de programas ejecutivos.",
+                 "50% de descuento en inscripción de preparatoria.",
+                 "20% de descuento en colegiaturas de preparatoria, licenciatura y maestrías escolarizadas."
+                 
+             ],
+             "disclosure": "",
+             "url": "www.ula.edu.mx",
+             "phone": "8500-8100",
+             "contact": "",
+             "email": "",
+             "address" : "Gabriel Mancera N° 1402, Col. Del Valle. Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Universidad Marista",
+             "categoryId": "8",
+             "conditions": [
+                 "20% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "www.umarista.edu.mx",
+             "phone": "5063-3070 y 5063-3099",
+             "contact": "",
+             "email": "",
+             "address" : "Av. Gral Leandro Valle N° 928, Col. Del Mar, Del. Tláhuac, C.P. 13420."
+         },
+         {
+             "discount": "Universidad Simón Bolívar",
+             "categoryId": "8",
+             "conditions": [
+                 "10% de descuento en licenciaturas y posgrados.",
+                 "20% de descuento en cursos de idiomas.",
+                 "15% de descuento en educación continua."
+             ],
+             "disclosure": "",
+             "url": "www.usb.edu.mx",
+             "phone": "5629-9700 y 5629-9733",
+             "contact": "",
+             "email": "",
+             "address" : "Avenida Río Mixcoac N° 48, Col. Insurgentes Mixcoac, Del. Benito Juárez, C.P. 03920."
+         },
+         {
+             "discount": "Universidad St. John's",
+             "categoryId": "8",
+             "conditions": [
+                 "15% de descuento en inscripción para cursar preescolar, primaria, secundaria y preparatoria en el turno vespertino.",
+                 "50% de descuento en inscripción y colegiatura para cursar preparatoria en el turno matutino."
+             ],
+             "disclosure": "",
+             "url": "www.st-johns.edu.mx",
+             "phone": "5594-1570 y 6091",
+             "contact": "",
+             "email": "",
+             "address" : "Cacahuatales N° 77, Col. Rinconada Coapa 2a. sección, Del. Tlalpan, C.P. 14325."
+         },
+         {
+             "discount": "Universidad Ymca",
+             "categoryId": "8",
+             "conditions": [
+                 "50% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "www.uniymca.edu.mx",
+             "phone": "5260-5437",
+             "contact": "",
+             "email": "",
+             "address" : "Lago Alberto N° 337, Col Anáhuac, Del. Miguel Hidalgo, C.P. 01132."
+         }         
     ]
 }
