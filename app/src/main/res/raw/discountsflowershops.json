@@ -1,0 +1,30 @@
+{
+    "discountsFlowerShops": [
+        {
+            "discount": "Annafiori",
+            "categoryId": "11",
+            "conditions": [
+                "10% de descuento en la compra de arreglos florales."
+            ],
+            "disclosure": "No aplica en servicio a domicilio.",
+            "url": "www.annafiori.com.mx",
+            "phone": "2641-7651 y 2614-3459",
+            "contact": "",
+            "email": "ventas.annafiori@yahoo.com.mx",
+            "address": "Avenida Nuevo León N° 291-A, Col. Escandón, Del. Miguel Hidalgo, C.P. 11800."
+        },
+        {
+            "discount": "Le Petit Jardín",
+            "categoryId": "11",
+            "conditions": [
+                "15% de descuento en la compra de arreglos florales."
+            ],
+            "disclosure": "",
+            "url": "www.lepetitjardin.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": "Insurgentes Sur N° 634, Col. Del Valle Centro, Benito Juárez, C.P. 03100."
+        }
+    ]
+}

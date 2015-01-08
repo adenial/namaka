@@ -1,0 +1,61 @@
+{
+    "discountsBeauty": [
+        {
+            "discount": "Bodywrap",
+            "categoryId": "10",
+            "conditions": [
+                "10% de descuento adicional a los descuentos iniciales, en tratamiento corporales para reducción de peso, flacidez y reafirmantes."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5550-2923",
+            "contact": "",
+            "email": "",
+            "address": "Av. de la Paz N° 40, Plaza Versalles Local 106, Col. San Ángel, Del. Álvaro Obregón, C.P. 01000."
+        },
+        {
+            "discount": "Calidryas",
+            "categoryId": "10",
+            "conditions": [
+                "25% de descuento en el pago en efectivo de tratamientos corporales o meses sin intereses en pago con tarjeta de crédito.",
+                "20% de descuento en el pago en efectivo de tratamientos faciales o meses sin intereses en pago con tarjeta de crédito.",
+                "10% de descuento en el pago en efectivo de tratamiento de SPA o meses sin intereses en pago con tarjeta de crédito.",
+                "15% de descuento en el pago en efectivo de Cámara Hiperbárica corporales o meses sin intereses en pago con tarjeta de crédito."
+            ],
+            "disclosure": "Sucursales Polanco, Nápoles, San Ángel.",
+            "url": "",
+            "phone": "5536-3000",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Stephanie Katz Face & Body Control",
+            "categoryId": "10",
+            "conditions": [
+                "Tratamiento Facial Express por $350.00 más el 10% de descuento adicional en pago en efectivo.",
+                "35% de descuento en Fisioterapía Térmica y Masaje de Drenaje Linfático."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "2099 4889 y 4756 2055",
+            "contact": "",
+            "email": "",
+            "address": "Miguel Ángel de Quevedo N° 24-103 Col. Ex Hacienda de Guadalupe Chimalistac, Delg. Álvaro Obregón, C.P. 01050."
+        },
+        {
+            "discount": "The Glam",
+            "categoryId": "10",
+            "conditions": [
+                "50% de descuento en corte de cabello.",
+                "10% de descuento en servicios de salón."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5647-8023",
+            "contact": "",
+            "email": "theglam.altavista@gmail.com",
+            "address": "Insurgentes Sur N° 1991, Col. Guadalupe Inn, Del. Álvaro Obregón."
+        }
+    ]
+}

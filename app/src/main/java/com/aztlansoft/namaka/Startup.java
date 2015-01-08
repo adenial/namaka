@@ -77,6 +77,11 @@ public class Startup extends Application
     List<Discount> automativeEngineeringDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsautomotiveengineering), "discountsAutomativeEngineering");
     List<Discount> gymsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsgyms), "discountsGyms");
     List<Discount> educationDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountseducation), "discountsEducation");
+    List<Discount> entertainmentDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsentertainment), "discountsEntertainment");
+    List<Discount> beautyDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsbeauty), "discountsBeauty");
+    List<Discount> flowerShopsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsflowershops), "discountsFlowerShops");
+    List<Discount> funeralHomesShopsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsfuneralhomes), "discountsFuneralHomes");
+    List<Discount> hotelsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountshotels), "discountsHotels");
 
     arrayOfDiscounts.add(aerolineDiscounts);
     arrayOfDiscounts.add(travelAgenciesDiscounts);
@@ -86,6 +91,11 @@ public class Startup extends Application
     arrayOfDiscounts.add(automativeEngineeringDiscounts);
     arrayOfDiscounts.add(gymsDiscounts);
     arrayOfDiscounts.add(educationDiscounts);
+    arrayOfDiscounts.add(entertainmentDiscounts);
+    arrayOfDiscounts.add(beautyDiscounts);
+    arrayOfDiscounts.add(flowerShopsDiscounts);
+    arrayOfDiscounts.add(funeralHomesShopsDiscounts);
+    arrayOfDiscounts.add(hotelsDiscounts);
     return arrayOfDiscounts;
   }
 

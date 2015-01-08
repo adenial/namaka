@@ -1,0 +1,58 @@
+{
+    "discountsFuneralHomes": [
+        {
+            "discount": "Gayosso",
+            "categoryId": "12",
+            "conditions": [
+                "30% de descuento en la adquisición de nichos y gavetas.",
+                "10% de descuento en la contratación de servicios funerarios de necesidad inmediata."
+            ],
+            "disclosure": "",
+            "url": "www.gayosso.com",
+            "phone": "5141-1390 y 044 55-9110-4092",
+            "contact": "Claudia Luna",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "J. García López",
+            "categoryId": "12",
+            "conditions": [
+                "15% de descuento en la contratación de servicios funerarios de necesidad inmediata y en planes a futuro."
+            ],
+            "disclosure": "Zona Rosa, Pericentro, Satélite, Casa Pedregal, Perisur y Coyoacán.",
+            "url": "www.jgarcialopez.com.mx",
+            "phone": "5481-9400",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Lomas Renacimiento",
+            "categoryId": "12",
+            "conditions": [
+                "20% de descuento en la contratación de servicios funerarios."
+            ],
+            "disclosure": "",
+            "url": "www.lomasrenacimiento.com.mx",
+            "phone": "5557-7605 y 5557-7705",
+            "contact": "Juan Carlos Ortega",
+            "email": "jcortega@lomasrenacimiento.com.mx",
+            "address": "Ingenieros Militares N° 111, Col. Lomas de Sotelo, Del. Miguel Hidalgo, C.P. 11200."
+        },
+        {
+            "discount": "Memorial San Ángel",
+            "categoryId": "12",
+            "conditions": [
+                "30% de descuento en pago en efectivo.",
+                "20% de descuento y 6, 12 y 18 meses sin intereses en paquetes a previsión, necesidad inmediata y nichos."
+            ],
+            "disclosure": "",
+            "url": "www.memorialsanangel.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": "Flor de María N° 20, Col. Atlamaya San Ángel Inn, Del. Álvaro Obregón, C.P. 1760."
+        }
+    ]
+}

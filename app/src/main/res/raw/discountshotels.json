@@ -1,0 +1,434 @@
+{
+    "discountsHotels": [
+        {
+            "discount": "Cadenas y Grupos Hoteleros (Multiples Destinos)",
+            "categoryId": "13",
+            "conditions": [
+                "Barceló Hotel & Resorts",
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.barcelo.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Best Western",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "5080-5030 y 01800 904-7500",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Camino Real Grupo Real Turismo",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.caminoreal.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "City",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelescity.com",
+            "phone": "01800 248-9397",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Coral & Spa Gym",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.coralclubes.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Courtyard by Marriot",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.marriot.com/courtyard",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Emporio Diestra Hotels & Resorts",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelesemporio.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Fairfield Inn by Marriot",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.español.marriot.com/fairfield",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Las Brisas",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.brisas.com.mx",
+            "phone": "5339-1000 y 01800 227-4727",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Misión",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelesmision.com.mx",
+            "phone": "5209-1700 y 01800 900-3800",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "NH",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "5229-1500 y 01800 903-3300",
+            "contact": "",
+            "email": "nh.mexico@nh-hoteles.com",
+            "address": ""
+        },
+        {
+            "discount": "Quinta Real Grupo Real Turismo",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.quintareal.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Real Inn Grupo Turismo",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "01800-732-5466",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Acapulco Tortuga",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hoteltortugaacapulco.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Copacabana Acapulco",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelcopacabana.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Holiday Inn Resort Acapulco",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.holidayinn.com/español",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Calypso",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelcalypsocancun.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Benidorm",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.benidorm.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Krystal Grand Reforma Uno México City",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.krystal-hotels.com/Grand-Reforma",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Majestic Best Western",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelmajestic.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Pedregal Palace Hotel",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.pedregalpalace.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Aranzazu",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.aranzazu.com.mx",
+            "phone": "5207 7685 y 01800 365-0365",
+            "contact": "",
+            "email": "gerenciamexico@aranzazu.com.mx",
+            "address": ""
+        },
+        {
+            "discount": "Arborea",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelarborea.com",
+            "phone": "01 33 3121-4700 y 01800 326-7783",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Ejecutivo Express",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "01800 225-4323 y 0133 3548-1515",
+            "contact": "",
+            "email": "angiealvarado@ejecutivoexpress.com.mx",
+            "address": ""
+        },
+        {
+            "discount": "Laffayette",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.laffayettehotel.com",
+            "phone": "5525-2579 y 01800 822-6622",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Real de Minas Express",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "5395 0661 y 5592 4473",
+            "contact": "",
+            "email": "",
+            "address": "Blvd. A. López Mateos 1902 Ote. Col. El Mirador C.P. 37500. Léon, Gto."
+        },
+        {
+            "discount": "Real de Minas Poliforum",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "01800-836-7110",
+            "contact": "",
+            "email": "",
+            "address": "Blvd. A. López Mateos 2211 Ote. Col. Bugambilias C.P. 37270. León, Gto."
+        },
+        {
+            "discount": "Victoria Mérida",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "",
+            "phone": "01800 927-7777",
+            "contact": "",
+            "email": "reservaciones@hotelvictoriamerida.com",
+            "address": ""
+        },
+        {
+            "discount": "Grand Hotel Ancira Monterrey",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotel-ancira.com",
+            "phone": "5598 4807 y 5611 1938",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Fiesta Inn Monterrey Tecnológico",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.fiestainn.com.mx",
+            "phone": "5326-6900 y 01800 504-5000",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Fortín Plaza",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa"
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibildiad.",
+            "url": "www.hotelfortinplaza.com.mx",
+            "phone": "5511-3429 y 5207-6231",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "La Quinta Inn & Suites Puebla",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.laquintapueblapalmas.com",
+            "phone": "01222 303-9800 Ext. 1800",
+            "contact": "",
+            "email": "",
+            "address": "Ave. Zeta del Cochero N° 407. Puebla, Puebla C.P. 72810."
+        },
+        {
+            "discount": "Villasol",
+            "categoryId": "13",
+            "conditions": [
+                "Tarifa Corporativa."
+            ],
+            "disclosure": "Comunicarse al departamento de reservaciones para verificar disponibilidad.",
+            "url": "www.hotelsuitesvillasol.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": ""
+        }
+    ]
+}

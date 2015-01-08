@@ -1,0 +1,287 @@
+{
+    "discountsEntertainment": [
+        {
+            "discount": "Africam Safari",
+            "categoryId": "9",
+            "conditions": [
+                "35% de descuento en entradas al safari diurno de 10:00 a 17:00 hrs.",
+                "15% de descuento en safari nocturno de diciembre a enero."
+            ],
+            "disclosure": "No aplica en vacaciones de semana santa, verano e invierno, máximo 4 personas.",
+            "url": "",
+            "phone": "01 222-281-7000",
+            "contact": "",
+            "email": "",
+            "address": "Blvd. Capitán Carlos Camacho Km 16.5, Oasis, Zaragoza, Puebla, C.P. 72960."
+        },
+        {
+            "discount": "Aqua Splash",
+            "categoryId": "9",
+            "conditions": [
+                "25% de descuento en pago en efectivo para el titular y 4 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.auasplash.com.mx",
+            "phone": "01 734 3433-424 y 3433-425",
+            "contact": "",
+            "email": "",
+            "address": "Carretera Tequesquitengo Jojutla, km. 4.5 Jojutla, Edo. de Morelos, C.P. 62900."
+        },
+        {
+            "discount": "Bioparque Estrella México",
+            "categoryId": "9",
+            "conditions": [
+                "33% de descuento en entradas para el trabajador y 4 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.bioparque.com.mx",
+            "phone": "5089-9990",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Bolerama Coyoacán",
+            "categoryId": "9",
+            "conditions": [
+                "3 líneas de boliche y renta de zapatos por $125.00."
+            ],
+            "disclosure": "",
+            "url": "www.boleramacoyoacan.com",
+            "phone": "5524-7880",
+            "contact": "",
+            "email": "",
+            "address": "José Ma. Rico N° 526, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+        },
+        {
+            "discount": "Bol Plaza Satélite",
+            "categoryId": "9",
+            "conditions": [
+                "25% de descuento en pago en efectivo de líneas de boliche."
+            ],
+            "disclosure": "",
+            "url": "www.bolplazasatelite.com",
+            "phone": "5322-0400",
+            "contact": "",
+            "email": "plazab@prodigy.net.mx",
+            "address": "Blvd. M. Ávila Camacho N° 1885, 2° Piso, Cd. Satélite, Naucalpan de Juárez, Estado de México, C.P. 53100."
+        },
+        {
+            "discount": "Bol Tlalpan",
+            "categoryId": "9",
+            "conditions": [
+                "10% de descuento en líneas de boliche."
+            ],
+            "disclosure": "",
+            "url": "www.boltlalpan.com",
+            "phone": "5606-6043 y 6778",
+            "contact": "",
+            "email": "",
+            "address": "Calz. de Tlalpan N° 3543 Col. Sta. Úrsula Coapa, Del. Coyoacán, C.P. 04650."
+        },
+        {
+            "discount": "Centro Vacacional Ajacuba",
+            "categoryId": "9",
+            "conditions": [
+                "25% de descuento en entrada al parque.",
+                "15% de descuento en hospedaje y restaurante.",
+                "50% de descuento para adultos mayores."
+            ],
+            "disclosure": "",
+            "url": "www.ajacuba.com.mx",
+            "phone": "01 778-782-4193",
+            "contact": "",
+            "email": "",
+            "address": "Blvd. Francisco I. Madero N° 18, Centro, 41250. Ajacuba, Hidalgo."
+        },
+        {
+            "discount": "Ex-Hacienda de Temixco",
+            "categoryId": "9",
+            "conditions": [
+                "30% de descuento en pago en efectivo, titular y 4 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.temixcoacuatico.com",
+            "phone": "01 777 325-0355",
+            "contact": "parqueacuativo@temixcoacuatico.com",
+            "email": "",
+            "address": "Carretera Federal Mexico-Acapulco Km 85, Centro, Temixco, Morelos, C.P. 62580."
+        },
+        {
+            "discount": "La Feria",
+            "categoryId": "9",
+            "conditions": [
+                "Precio especial en pasaporte mega y platino para el trabajador y hasta 9 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.feriachapultepec.com.mx",
+            "phone": "5230-2121",
+            "contact": "",
+            "email": "",
+            "address": "Cto. Bosque de Chapultepec 2a. Sección Juegos Mecánicos, Del. Miguel Hidalgo, C.P. 11580."
+        },
+        {
+            "discount": "Las Estacas",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en entradas al parque.",
+                "15% de descuento en área para acampar para el titular y 4 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.lasestacas.com",
+            "phone": "3004-5300 y 3004-5301",
+            "contact": "",
+            "email": "informes@lasestacas.com",
+            "address": "Km. 6 carretera Tlaltizapan-Cuautla S/N Col. Ejido Bonifacio García, Mpo. Tlaltizapan, Morelos C.P. 62770."
+        },
+        {
+            "discount": "Magic Trek",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en admisión general.",
+                "15% de descuento en cualquier paquete de fiesta."
+            ],
+            "disclosure": "",
+            "url": "www.magictrek.com",
+            "phone": "1668-9095",
+            "contact": "",
+            "email": "",
+            "address": "Av. Ruiz Cortines N° 225, Col. Lomas de Atizapán, Atizapán de Zaragoza, Estado de México C.P. 52977."
+        },
+        {
+            "discount": "Mondo Xtremo",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en pase adrenalina total",
+                "10% de descuento en paquetes de fiesta."
+            ],
+            "disclosure": "",
+            "url": "www.piccolomondo.com.mx",
+            "phone": "1105-8830",
+            "contact": "",
+            "email": "",
+            "address": "Vialidad de la Barranca N°6, Col. Ex Hacienda Jesús del Monte, Municipio Huixquilucan, C.P.52763."
+        },
+        {
+            "discount": "Nosotros Hacemos Teatro",
+            "categoryId": "9",
+            "conditions": [
+                "30% en pastorela Ciscale, ciscalediablopanzón",
+                "50% de descuento en el resto de la cartelera."
+            ],
+            "disclosure": "",
+            "url": "wwwnhteatro.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": "Héroes del 47 N° 122, Col. San Mateo, Del. Coyoacán, C.P.04120."
+        },
+        {
+            "discount": "Piccolo Mondo",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en entradas.",
+                "1 candy comer(con valor de $1,500.00) para su fiesta infantil."
+            ],
+            "disclosure": "",
+            "url": "www.piccolomondo.com.mx",
+            "phone": "1105-8830",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Pista de Hielo: La Pista Gran Sur",
+            "categoryId": "9",
+            "conditions": [
+                "2x1 en entradas."
+            ],
+            "disclosure": "",
+            "url": "www.lapista.com.mx",
+            "phone": "5363-4586y5363-4504",
+            "contact": "",
+            "email": "",
+            "address": "Periférico Sur N° 5550, Col. Pëdregal de Carrasco, Del. Coyoacán, C.P.04700."
+        },
+        {
+            "discount": "Pista de Hielo: La Pista Lomas Verdes",
+            "categoryId": "9",
+            "conditions": [
+                "2 x1en entradas."
+            ],
+            "disclosure": "",
+            "url": "www.lapista.com.mx",
+            "phone": "5663-4507y5663-4586",
+            "contact": "",
+            "email": "",
+            "address": "Av. Lomas Verdes N° 77, Col. Sta. Cruz Acatlán, Naucalpan, C.P.53150."
+        },
+        {
+            "discount": "Pista de Hielo: San Jerónimo",
+            "categoryId": "9",
+            "conditions": [
+                "2x1 en entradas."
+            ],
+            "disclosure": "",
+            "url": "www.lapista.com.mx",
+            "phone": "5683-6767",
+            "contact": "",
+            "email": "",
+            "address": "Av. Contreras N° 300, Col. San Jerónimo Lidice, Del. Magdalena Contreras C.P.10200."
+        },
+        {
+            "discount": "Reino Animal",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en entradas."
+            ],
+            "disclosure": "",
+            "url": "www.reinoanimal.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": "San Juan Teotihuacan, Otumba Centro, Otumba de Gómez Farías, Estado de México, C.P.55908."
+        },
+        {
+            "discount": "Stromboli",
+            "categoryId": "9",
+            "conditions": [
+                "20% de descuento en acceso infantil.",
+                "1 candy comer (con valor de $1,500.00) para su fiesta infantil."
+            ],
+            "disclosure": "",
+            "url": "www.piccolo",
+            "phone": "1105-8830",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "Tepetongo",
+            "categoryId": "9",
+            "conditions": [
+                "30% de descuento en entradas sobre tarifa regular para el titular y 5 acompañantes."
+            ],
+            "disclosure": "",
+            "url": "www.tepetongo.com.mx",
+            "phone": "01447590-9000",
+            "contact": "",
+            "email": "",
+            "address": ""
+        },
+        {
+            "discount": "The Movie Company",
+            "categoryId": "9",
+            "conditions": [
+                "Precio preferencial de $50.00 por entrada toda la semana en salas VIP y normales y $85.00 en salas 3D.",
+                "Pase doble sin costo en la semana de cumpleaños."
+            ],
+            "disclosure": "",
+            "url": "www.themoviecompany.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address": "Av. San Jerónimo N°263, Col. Tizapan SanÁngel, Del. Álvaro Obregón, C.P.01090."
+        }
+    ]
+}
