@@ -1,0 +1,222 @@
+{
+    "discountsClothesAndAccesories": [
+        {
+            "discount": "Camisería Bolívar",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5512-9774 y 5510-3761",
+            "contact": "",
+            "email": "",
+            "address" : "Bolívar N° 23-A, Col. Centro, Del. Cuauhtémoc, C.P. 06000."
+        },
+        {
+            "discount": "Centro Infantil Inn",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5518-4021 y 5512-1754",
+            "contact": "",
+            "email": "",
+            "address" : "República de Uruguay N° 93 Local 2, Col. Centro, Del. Cuauhtémoc, C.P. 06060."
+        },
+        {
+            "discount": "Ciao Masaryk",
+            "categoryId": "19",
+            "conditions": [
+                "5% de descuento en pago en efectivo adicional a cualquier descuento existente."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : [
+                "Av. Presidente Masaryk N° 340, Col. Chapultepec Polanco, Del. Miguel Hidalgo, C.P. 11560.",
+                "Av. Miguel Ángel de Quevedo N° 38, Col. Chimalistac, Del Álvaro Obregón, C.P. 01070."
+            ]
+        },
+        {
+            "discount": "Claud Moda Paque",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5521-1668",
+            "contact": "",
+            "email": "",
+            "address" : "República de Uruguay N° 94 Locales 8 y 9, Col. Centro, Del. Cuauhtémoc, C.P. 06060."
+        },
+        {
+            "discount": "Compañia Mexicana de Trajes",
+            "categoryId": "19",
+            "conditions": [
+                "5% de descuento en pago en efectivo adicional a cualquier descuento existente."
+            ],
+            "disclosure": "",
+            "url": "www.mextrajes.com",
+            "phone": "01 800 250 1333 y 5511 2305",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Infantiles Anny",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5542-4080",
+            "contact": "",
+            "email": "",
+            "address" : "Correo Mayor N° 60, local G, Col. Centro, Del. Cuauhtémoc, C.P. 06060."
+        },
+        {
+            "discount": "Julio",
+            "categoryId": "19",
+            "conditions": [
+                "10% de descuento en pago de mercancía de temporada en efectivo, en boutique de la marca."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5538-4008",
+            "contact": "",
+            "email": "",
+            "address" : "Calzada de Tlalpan N° 509, Col. Álamos, Del, Benito Juárez, C.P. 03400."
+        },
+        {
+            "discount": "Junco (telas)",
+            "categoryId": "19",
+            "conditions": [
+                "5% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "www.junco.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "La Palestina",
+            "categoryId": "19",
+            "conditions": [
+                "20% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5512-8129",
+            "contact": "",
+            "email": "",
+            "address" : "Av. 5 de Mayo N° 20, Local |, Col. Centro, Del. Cuauhtémoc, C.P. 06000."
+        },
+        {
+            "discount": "Liverpool",
+            "categoryId": "19",
+            "conditions": [
+                "10% de descuento en la compra en efectivo de monedero electrónico."
+            ],
+            "disclosure": "",
+            "url": "www.liverpool.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Levi's Outlet Store",
+            "categoryId": "19",
+            "conditions": [
+                "10% de descuento adicional al precio marcado en etiqueta."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : "Bolívar N° 235, Planta Baja, Col. Obrera, Del. Cuauhtémoc, C.P. 06800."
+        },
+        {
+            "discount": "Mom Shop",
+            "categoryId": "19",
+            "conditions": [
+                "20% de descuento en accesorios para damas.",
+                "Envío gratis."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5950-3710 y 5950-3711",
+            "contact": "",
+            "email": "ventas1@momshop.mx",
+            "address" : "Av. Palo Soll 130, Plaza Terrazas. Col. Palo Solo. Huixquilucan, Edo, México, C.P. 52790."
+        },
+        {
+            "discount": "Morlet (joyería)",
+            "categoryId": "19",
+            "conditions": [
+                "20% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5530-9809",
+            "contact": "",
+            "email": "",
+            "address" : "Bolívar Local 2 N° 589, Col. Álamos, Del. Benito Juárez, C.P. 03400."
+        },
+        {
+            "discount": "Mundo Peque",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago en efectivo",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5512-6821",
+            "contact": "",
+            "email": "",
+            "address" : "Correo Mayor N° 71-F, Col. Centro, Del. Cuauhtémoc, C.P. 06060."
+        },
+        {
+            "discount": "Ortocalce",
+            "categoryId": "19",
+            "conditions": [
+                "15% de descuento en pago de calzado en efectivo.",
+                "10% de descuento en pago de calzado con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5595-6929 y 5668-0070",
+            "contact": "",
+            "email": "",
+            "address" : "Sucursales San Jerónimo, Villa Coapa, Satélite, Tepeyac."
+        },
+        {
+            "discount": "Suburbia",
+            "categoryId": "19",
+            "conditions": [
+                "10% de descuento en la compra de mercancías."
+            ],
+            "disclosure": "",
+            "url": "www.suburbia.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        }
+    ]
+}

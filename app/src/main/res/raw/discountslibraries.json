@@ -1,0 +1,30 @@
+{
+    "discountsLibraries": [
+        {
+            "discount": "Ediciones Fiscales ISEF",
+            "categoryId": "16",
+            "conditions": [
+                "20% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "www.libreriaisef.com.mx",
+            "phone": "5442-8550",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Porrúa Hermanos",
+            "categoryId": "16",
+            "conditions": [
+                "10% de descuento en pago en efectivo"
+            ],
+            "disclosure": "",
+            "url": "www.porrua.com",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        }
+    ]
+}

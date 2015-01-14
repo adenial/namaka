@@ -1,0 +1,300 @@
+{
+    "discountsPlazaInn": [
+        {
+            "discount": "Barbería Pietro",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en servicio de peluquería para caballero."
+            ],
+            "disclosure": "No aplica en cortes con el Sr. Pietro.",
+            "url": "",
+            "phone": "5661-5171",
+            "contact": "",
+            "email": "",
+            "address" : "Local 212, Nivel Paseo."
+        },
+        {
+            "discount": "Bísquets de Obregón",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en el consumo individual de la cuenta."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-7803",
+            "contact": "",
+            "email": "",
+            "address" : "Local 250 y 281, Nivel Fuente."
+        },
+        {
+            "discount": "Basila Inmobiliaria",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en honorarios por intermediación",
+                "15% de descuento en honorarios por administración de rentas."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-4177",
+            "contact": "",
+            "email": "",
+            "address" : "Local 180, Nivel Paseo."
+        },
+        {
+            "discount": "Broncearium",
+            "categoryId": "17",
+            "conditions": [
+                "30% de descuento en bono de 10 sesiones."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-7054",
+            "contact": "",
+            "email": "",
+            "address" : "Local 172, Nivel Fuente."
+        },
+        {
+            "discount": "Casa Marcelo",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en renta y venta de ropa de etiqueta y trajes convencionales, así como en accesorios de vestir."
+            ],
+            "disclosure": "Aplica en todas las sucursales.",
+            "url": "www.casamarcelo.mx",
+            "phone": "5662-5564",
+            "contact": "",
+            "email": "",
+            "address" : "Local 30, Nivel Fuente."
+        },
+        {
+            "discount": "Chazz",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en el total de la cuenta."
+            ],
+            "disclosure": "Únicamente en Plaza Inn",
+            "url": "",
+            "phone": "5661-1963",
+            "contact": "",
+            "email": "",
+            "address" : "Local 90, Nivel Fuente."
+        },
+        {
+            "discount": "Chilis",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en el total de la cuenta."
+            ],
+            "disclosure": "Únicamente en Plaza Inn.",
+            "url": "",
+            "phone": "5661-1960",
+            "contact": "",
+            "email": "",
+            "address" : "Local 170, Nivel Avenida."
+        },
+        {
+            "discount": "Tintorería Cosette",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en el pago por adelantado del servicio de tintorería."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5663-2807",
+            "contact": "",
+            "email": "",
+            "address" : "Local 60, Nivel Paseo."
+        },
+        {
+            "discount": "El mundo de Marijo",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en toda la tienda.",
+                "Sistema de apartado."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "6363-4120",
+            "contact": "",
+            "email": "",
+            "address" : "Local 182, Nivel Fuente."
+        },
+        {
+            "discount": "Finca Santa Veracruz",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en consumo individual de alimentos."
+            ],
+            "disclosure": "Sólo aplica en sucursal Plaza Inn.",
+            "url": "",
+            "phone": "5663-4259",
+            "contact": "",
+            "email": "",
+            "address" : "Local 61, Nivel Avenida."
+        },
+        {
+            "discount": "Foto Arte",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en servicios digitales mayores a %30.00.",
+                "10% de descuento en memorias usb, tarjetas sd, micro sd, accesorios para equipo fotográfico y portarretratos."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-1893 y 5661-1870",
+            "contact": "",
+            "email": "",
+            "address" : "Local 271, Nivel Paseo."
+        },
+        {
+            "discount": "La Milagresa",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en la compra de zapatos."
+            ],
+            "disclosure": "Sólo aplica en sucursal Plaza Inn.",
+            "url": "",
+            "phone": "5661-9422",
+            "contact": "",
+            "email": "",
+            "address" : "Local 312 y 321, Nivel Fuente."
+        },
+        {
+            "discount": "Malpica Solís",
+            "categoryId": "17",
+            "conditions": [
+                "20% de descuento en reparación y compra de aparatos auditivos."
+            ],
+            "disclosure": "",
+            "url": "www.malpicasolis.com",
+            "phone": "5663-3267 y 0693",
+            "contact": "",
+            "email": "",
+            "address" : "Local 90, Nivel Paseo."
+        },
+        {
+            "discount": "Mediagnostic",
+            "categoryId": "17",
+            "conditions": [
+                "20% de descuento en check up y programa de control de peso."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5663 0952 y 54",
+            "contact": "Dr. Hugo Arturo Plata Suarez",
+            "email": "prosalud@live.com.mx",
+            "address" : "Local 201, Nivel Paseo."
+        },
+        {
+            "discount": "Model Art Spa",
+            "categoryId": "17",
+            "conditions": [
+                "20% de descuento en servicios de belleza."
+            ],
+            "disclosure": "",
+            "url": "www.modelartspa.com",
+            "phone": "5663-0201",
+            "contact": "",
+            "email": "",
+            "address" : "Local 222, Nivel Paseo."
+        },
+        {
+            "discount": "Muraneli",
+            "categoryId": "17",
+            "conditions": [
+                "20% de descuento en pago en efectivo."
+            ],
+            "disclosure": "",
+            "url": "www.muraneli.com.mx",
+            "phone": "5662-5489",
+            "contact": "",
+            "email": "",
+            "address" : "Local 322, Nivel Fuente"
+        },
+        {
+            "discount": "Ópica Rosedal",
+            "categoryId": "17",
+            "conditions": [
+                "Del 10% al 30% de descuento en armazones oftálmicos y solares.",
+                "40% de descuento en micas y cristales y policarbonatos.",
+                "20% de descuento en lentes de contacto de uso prolongado.",
+                "10% de descuento en prótesis oculares."
+            ],
+            "disclosure": "Aplica en todas las sucursales.",
+            "url": "",
+            "phone": "5661-8671",
+            "contact": "",
+            "email": "",
+            "address" : "Local 261, Nivel Paseo."
+        },
+        {
+            "discount": "Ozawa",
+            "categoryId": "17",
+            "conditions": [
+                "20% de descuento en servicios dentales.",
+                "Descuento especial en implantes dentales y coronas."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5663-2263",
+            "contact": "",
+            "email": "",
+            "address" : "Local 352, Nivel Fuente."
+        },
+        {
+            "discount": "RE Un Nuevo Amanecer",
+            "categoryId": "17",
+            "conditions": [
+                "15% de descuento en pago de servicios en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito, y 6 meses sin intereses con tarjetas participantes (Ixe, Banorte, Scotiabank, HSBC)."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5135-1839",
+            "contact": "",
+            "email": "",
+            "address" : "Local 310, Nivel Avenida."
+        },
+        {
+            "discount": "Reset",
+            "categoryId": "17",
+            "conditions": [
+                "Precio preferencial de $200 por revisión y diagnóstico de computadoras.",
+                "10% de descuento en accesorios."
+            ],
+            "disclosure": "",
+            "url": "www.resetservicio.com",
+            "phone": "5663-1950",
+            "contact": "",
+            "email": "",
+            "address" : "Local 388, Nivel Fuente."
+        },
+        {
+            "discount": "Tradiciones Latte Café",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en consumo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-1685",
+            "contact": "",
+            "email": "",
+            "address" : "Locales 121 y 122, Nivel Fuente."
+        },
+        {
+            "discount": "Vera Spa",
+            "categoryId": "17",
+            "conditions": [
+                "10% de descuento en pago en efectivo de servicios.",
+                "5% de descuento en pago en efectivo de productos."
+            ],
+            "disclosure": "",
+            "url": "www.verspa.com.mx",
+            "phone": "5661-9300",
+            "contact": "",
+            "email": "",
+            "address" : "Local 270, Nivel Fuente."
+        }
+    ]
+}

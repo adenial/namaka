@@ -1,0 +1,31 @@
+{
+    "discountsToys": [
+        {
+            "discount": "Jugarás",
+            "categoryId": "15",
+            "conditions": [
+                "10% de descuento en pago en efectivo",
+                "5% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5764-2072 y 5764-1640",
+            "contact": "",
+            "email": "",
+            "address": "Fray Servando Teresa de Mier N° 425, Col. Merced Balbuena, Del. Venustiano Carranza, C.P. 15810."
+        },
+        {
+            "discount": "Vento",
+            "categoryId": "15",
+            "conditions": [
+                "Precio preferencial de mayoreo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5608-2746 y 5607-4303",
+            "contact": "",
+            "email": "",
+            "address": "Av. Tláhuac N° 1021, Col. Lomas Estrella, Del. Iztapalapa, C.P. 09890."
+        }
+    ]
+}

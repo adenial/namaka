@@ -1,0 +1,149 @@
+{
+    "discountsIdioms": [
+         {
+             "discount": "Angloamericano",
+             "categoryId": "14",
+             "conditions": [
+                 "20% de descuento en cuotas mensuales."
+             ],
+             "disclosure": "",
+             "url": "www.angloamericano.com.mx",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Berliz",
+             "categoryId": "14",
+             "conditions": [
+                 "Inscripción sin costo."
+             ],
+             "disclosure": "",
+             "url": "www.berlitz.com.mx",
+             "phone": "5279-8777400",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "Centro de idiomas Benjamín Franklin",
+             "categoryId": "14",
+             "conditions": [
+                 "20% de descuento en colegiaturas."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5534-7747",
+             "contact": "",
+             "email": "",
+             "address" : "Parroquia N° 830, Colonia Del Valle, Del. Benito Juárez, C.P. 03100."
+         },
+         {
+             "discount": "Centro de Lenguas Italo Calvino",
+             "categoryId": "14",
+             "conditions": [
+                 "10% de descuento en curso regular,",
+                 "5% de descuento en curso personalizado."
+             ],
+             "disclosure": "",
+             "url": "wwww.idiomasitalocalvino.com",
+             "phone": "5658-3840",
+             "contact": "",
+             "email": "",
+             "address" : "Moctezuma N° 89, Col. El Carmen, Del. Coyoacán , C.P. 04100."
+         },
+         {
+             "discount": "Geordal Idiomas",
+             "categoryId": "14",
+             "conditions": [
+                 "5% de descuento en cuotas mensuales."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "",
+             "contact": "",
+             "email": "",
+             "address" : "Barranca del muerto N° 493, Col. Merced Gómez, Del. Álvaro Obregón, C.P. 01010."
+         },
+         {
+             "discount": "Harmon Hall",
+             "categoryId": "14",
+             "conditions": [
+                 "20% de descuento en cuotas mensuales."
+             ],
+             "disclosure": "",
+             "url": "www.harmonhall.com",
+             "phone": "01800 422-5292",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "International House",
+             "categoryId": "14",
+             "conditions": [
+                 "Precio Preferencial de $2,360.00 en cuotas mensuales.",
+                 "Examen diagnóstico sin costo."
+             ],
+             "disclosure": "",
+             "url": "www.ihmexico.com",
+             "phone": "5211-6500",
+             "contact": "",
+             "email": "",
+             "address" : "Plantel Alfonso Reyes N° 224, Col. Hipódromo Condesa, Del, Cuauhtémoc, C.P. 06170."
+         },
+         {
+             "discount": "Learnex",
+             "categoryId": "14",
+             "conditions": [
+                 "50% de descuento para el programa integral de 9 meses de inglés, más 10% de descuento adicional."
+             ],
+             "disclosure": "",
+             "url": "",
+             "phone": "5545 0387",
+             "contact": "Jesús Falcón Verdúzco",
+             "email": "jesusfal@live.com",
+             "address" : "Lago Meru 75, Col. Granada, Del. Miguel Hidalgo C.P. 11520."
+         },
+         {
+             "discount": "Quick Learning",
+             "categoryId": "14",
+             "conditions": [
+                 "18% de descuento en cuotas mensuales."
+             ],
+             "disclosure": "",
+             "url": "www.quicklearning.com",
+             "phone": "01 800 2777077",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         },
+         {
+             "discount": "The Anglo",
+             "categoryId": "14",
+             "conditions": [
+                 "15% de descuento en cuotas mensuales"
+             ],
+             "disclosure": "",
+             "url": "www.anglo.mx",
+             "phone": "3000-1850",
+             "contact": "",
+             "email": "",
+             "address" : "Calle Maestro Anonio Ceso N° 127, Col. San Rafael, Cuauhémoc, 06470."
+         },
+         {
+             "discount": "Véndome Language Cultural Institute",
+             "categoryId": "14",
+             "conditions": [
+                 "Del 16% al 30% de descuento en cuotas mensuales."
+             ],
+             "disclosure": "",
+             "url": "www.vendomelci.com",
+             "phone": "5536-5308",
+             "contact": "",
+             "email": "",
+             "address" : ""
+         }
+    ]
+}

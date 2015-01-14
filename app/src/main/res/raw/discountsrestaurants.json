@@ -1,0 +1,207 @@
+{
+    "discountsRestaurants": [
+        {
+            "discount": "Angus",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago de consumo en efectivo.",
+                "5% de descuento en pago de consumo con tarjeta de crédito o débito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5543-5542",
+            "contact": "",
+            "email": "reservaciones_angusinsurgentes@hotmail.com",
+            "address" : "Insurgentes Sur N° 700, Col. Del Valle, Del. Benito Juárez, C.P. 03100."
+        },
+        {
+            "discount": "Aránzazu (pastelería)",
+            "categoryId": "18",
+            "conditions": [
+                "15% de descuento en pago en efectivo.",
+                "10% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "www.aranzazu.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Cafetería Nacional",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago en efectivo",
+                "5% de descuento en pago con tarjeta de crédito."
+            ],
+            "disclosure": "No aplica en bebidas alcohólicas o eventos privados.",
+            "url": "",
+            "phone": "5695-0673",
+            "contact": "",
+            "email": "",
+            "address" : "Eje 3 Oriente, Arneses N° 550-D, Col. San Antonio Culhuacán, Del. Iztapalapa, C.P. 09800."
+        },
+        {
+            "discount": "Casa Ávila",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en consumo antes del IVA."
+            ],
+            "disclosure": "",
+            "url": "www.casaavila.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "D'Kirico",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en consumo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5550-4184",
+            "contact": "",
+            "email": "",
+            "address" : "Amargura N° 17, Col. San Ángel, Del. Álvaro Obregón, C.P. 01000."
+        },
+        {
+            "discount": "Daruma",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en consumo.",
+                "Aplica en sucursales Parque Hundido, Polanco, Tiber, Bosques, Cuicuilco y Satélite. No aplica en menú ejecutivo y charolas, con otras promociones."
+            ],
+            "disclosure": "",
+            "url": "www.daruma.com.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Keizo",
+            "categoryId": "18",
+            "conditions": [
+                "20% de descuento en consumo los días martes, viernes, sábado y domingo.",
+                "Lunes y miércoles sushi al 2x1.",
+                "Jueves 2x1 en Teppanyaki."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5211-5631",
+            "contact": "",
+            "email": "",
+            "address" : "Puerta Altavista, Camino al Desierto de los Leones N° 24, local 6 y 7, Col. San Ángel."
+        },
+        {
+            "discount": "Konditori",
+            "categoryId": "18",
+            "conditions": [
+                "13% de descuento en consumo.",
+                "Platillo gratis a elegir, después de la 5° comida."
+            ],
+            "disclosure": "Aplica en sucursales de Polanco, Zona Rosa, Insurgentes Sur y Centro Comercial Santa Fe.",
+            "url": "www.konditori.mx",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "La Barda",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago de consumo en efectivo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5673-8176",
+            "contact": "",
+            "email": "",
+            "address" : "Cafetales N° 198, Col. Ex Hacienda Coapa, Del. Coyoacán, C.P. 14310."
+        },
+        {
+            "discount": "La Mansión",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento antes del IVA."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Los Canarios",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago de consumo en efectivo.",
+                "5% de descuento en pago de consumo con pago con tarjeta de crédito."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5550-1050",
+            "contact": "",
+            "email": "",
+            "address" : "Av. San Jerónimo Sur N° 230, Col. Ciudad Universitaria, Del. Coyoacán, C.P. 04015."
+        },
+        {
+            "discount": "Miralto",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en consumo."
+            ],
+            "disclosure": "No aplica en prime menú, desayunos y eventos especiales.",
+            "url": "www.miralto.com.mx",
+            "phone": "5518-1710",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "Mongol Grill",
+            "categoryId": "18",
+            "conditions": [
+                "12% de descuento en consumo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5661-3703",
+            "contact": "",
+            "email": "",
+            "address" : "Av. Insurgentes Sur 1794, Col. Florida."
+        },
+        {
+            "discount": "Saks",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago de consumo en efectivo"
+            ],
+            "disclosure": "",
+            "url": "www.saks.com.mx",
+            "phone": "5615-1500",
+            "contact": "",
+            "email": "",
+            "address" : ""
+        },
+        {
+            "discount": "VIPS San Ángel",
+            "categoryId": "18",
+            "conditions": [
+                "10% de descuento en pago de consumo en efectivo."
+            ],
+            "disclosure": "",
+            "url": "",
+            "phone": "5616-0508",
+            "contact": "",
+            "email": "",
+            "address" : "Av. Insurgentes Sur N° 2021, Col Guadalupe Inn, Del. Álvaro Obregón, C.P. 01090."
+        }
+    ]
+}

@@ -82,6 +82,12 @@ public class Startup extends Application
     List<Discount> flowerShopsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsflowershops), "discountsFlowerShops");
     List<Discount> funeralHomesShopsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsfuneralhomes), "discountsFuneralHomes");
     List<Discount> hotelsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountshotels), "discountsHotels");
+    List<Discount> idiomsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsidioms), "discountsIdioms");
+    List<Discount> toysDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountstoys), "discountsToys");
+    List<Discount> librariesDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountslibraries), "discountsLibraries");
+    List<Discount> plazaInnDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsplazainn), "discountsPlazaInn");
+    List<Discount> restaurantsDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsrestaurants), "discountsRestaurants");
+    List<Discount> clothesAndAccesoriesDiscounts = getDiscounts(getApplicationContext().getResources().openRawResource(R.raw.discountsclothesandaccesories), "discountsClothesAndAccesories");
 
     arrayOfDiscounts.add(aerolineDiscounts);
     arrayOfDiscounts.add(travelAgenciesDiscounts);
@@ -96,6 +102,12 @@ public class Startup extends Application
     arrayOfDiscounts.add(flowerShopsDiscounts);
     arrayOfDiscounts.add(funeralHomesShopsDiscounts);
     arrayOfDiscounts.add(hotelsDiscounts);
+    arrayOfDiscounts.add(idiomsDiscounts);
+    arrayOfDiscounts.add(toysDiscounts);
+    arrayOfDiscounts.add(librariesDiscounts);
+    arrayOfDiscounts.add(plazaInnDiscounts);
+    arrayOfDiscounts.add(restaurantsDiscounts);
+    arrayOfDiscounts.add(clothesAndAccesoriesDiscounts);
     return arrayOfDiscounts;
   }
 
